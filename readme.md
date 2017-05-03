@@ -1,5 +1,4 @@
-Effeckt.css
-===========
+
 
 **Performant Transitions &amp; Animations**
 
